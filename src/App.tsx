@@ -47,7 +47,7 @@ function App() {
 
   return (
     
-    <div className='w-full flex justify-center items-center flex-col'> 
+    <div className='w-full flex justify-center items-center text-center flex-col'> 
 
 <div className="w-screen h-screen flex justify-center items-center flex-col bg-gradient-to-br from-sky-700 to-lime-700">
       <div className='w-5/6 md:w-1/2 flex flex-col  justify-center items-center gap-2 my-2 '>
